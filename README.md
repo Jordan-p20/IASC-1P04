@@ -7,7 +7,7 @@ Twine Game created for IASC-1P04 at Brock U
   Short twine game about traveling through a desert landscape after an apocalypse trying to find one of the last known fresh water lakes.
 
 ## Play Now
-Play Dry Sands [here](final_build/DrySandsFinalBuild.html)
+Play Dry Sands [here](Final_build/DrySandsFinalBuild.html)
 
 
 ### Playtest
